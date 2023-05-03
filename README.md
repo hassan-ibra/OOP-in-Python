@@ -1,6 +1,4 @@
-
-
-Object-Oriented Programming
+#Object-Oriented Programming
 This repository contains educational materials on object-oriented programming. The goal of this repository is to provide a comprehensive guide to understanding the fundamentals of object-oriented programming and applying them in practice.
 
 ##Table of Contents
