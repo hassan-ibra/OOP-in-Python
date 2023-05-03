@@ -9,7 +9,8 @@ This repository contains educational materials on object-oriented programming. T
 * Polymorphism
 * Encapsulation
 * Conclusion
-What is Object-Oriented Programming?
+* 
+## What is Object-Oriented Programming?
 Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code that manipulate the data. OOP is a popular programming paradigm for creating reusable, modular, and scalable software.
 
 Principles of Object-Oriented Programming
