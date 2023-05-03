@@ -14,7 +14,7 @@ This repository contains educational materials on object-oriented programming. T
 Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code that manipulate the data. OOP is a popular programming paradigm for creating reusable, modular, and scalable software.
 
 ## Principles of Object-Oriented Programming
-### There are four main principles of object-oriented programming:
+There are four main principles of object-oriented programming:
 
 1. Encapsulation: The process of hiding the implementation details of an object and exposing only the necessary interfaces to the outside world.
 2. Inheritance: The process of creating new classes from existing classes, inheriting the properties and behaviors of the parent class.
