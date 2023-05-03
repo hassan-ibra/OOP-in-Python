@@ -3,14 +3,14 @@
 Object-Oriented Programming
 This repository contains educational materials on object-oriented programming. The goal of this repository is to provide a comprehensive guide to understanding the fundamentals of object-oriented programming and applying them in practice.
 
-Table of Contents
-What is Object-Oriented Programming?
-Principles of Object-Oriented Programming
-Classes and Objects
-Inheritance
-Polymorphism
-Encapsulation
-Conclusion
+##Table of Contents
+*What is Object-Oriented Programming?
+*Principles of Object-Oriented Programming
+*Classes and Objects
+*Inheritance
+*Polymorphism
+*Encapsulation
+*Conclusion
 What is Object-Oriented Programming?
 Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code that manipulate the data. OOP is a popular programming paradigm for creating reusable, modular, and scalable software.
 
